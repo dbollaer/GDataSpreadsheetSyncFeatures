@@ -1,0 +1,17 @@
+{
+    "name": "dbollaer/g-data-spreadsheet-sync-features",
+    "description": "sync spreadsheet features",
+    "authors": [
+        {
+            "name": "Danny Bollaert",
+            "email": "Danny.Bollaert@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+     
+                  "zendframework/zendgdata": "dev-develop",
+                  "zendframework/zend-i18n": "2.1.*@dev"
+
+    }
+}
